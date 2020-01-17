@@ -1,0 +1,24 @@
+html, css{
+    touch-action:none;
+  }
+
+* {
+    margin: 0px;
+    padding: 0px;
+}  
+    
+  
+  .body {
+      height: 100%;
+  }
+  
+  
+  #display {
+      text-align: center;
+      font-size: 10em;
+  }
+  
+  .btn {
+      margin: 10px;
+      font-size: 4em;
+  }
